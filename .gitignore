@@ -1,0 +1,20 @@
+# IDE / tooling
+.idea/
+.claude/
+*.iml
+
+# Backend (Python)
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+
+# Frontend (Node)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/*.local
+
+# OS
+.DS_Store
+Thumbs.db
