@@ -22,6 +22,22 @@ mock data over REST; React frontend consuming it.
 | --- | --- |
 | ![Recommendations](docs/screenshots/07-recommendations.png) | ![Analytics](docs/screenshots/08-analytics.png) |
 
+| Customer Detail | Countries |
+| --- | --- |
+| ![Customer Detail](docs/screenshots/09-customer-detail.png) | ![Countries](docs/screenshots/10-countries.png) |
+
+| Agent Detail | Guard Rails |
+| --- | --- |
+| ![Agent Detail](docs/screenshots/11-agent-detail.png) | ![Guard Rails](docs/screenshots/12-guardrails.png) |
+
+| Business Rules | Skills |
+| --- | --- |
+| ![Business Rules](docs/screenshots/13-business-rules.png) | ![Skills](docs/screenshots/14-skills.png) |
+
+| Settings |  |
+| --- | --- |
+| ![Settings](docs/screenshots/15-settings.png) |  |
+
 ## Structure
 
 - `backend/` — FastAPI (Python), serves mock data under `/api/v1`
