@@ -4,6 +4,24 @@ An enterprise AI banking platform demo where multiple AI agents collaborate to
 recommend banking products based on customer behaviour. FastAPI backend serving
 mock data over REST; React frontend consuming it.
 
+## Screenshots
+
+| Dashboard | Customers |
+| --- | --- |
+| ![Dashboard](docs/screenshots/01-dashboard.png) | ![Customers](docs/screenshots/02-customers.png) |
+
+| Segmentation | AI Supervisor |
+| --- | --- |
+| ![Segmentation](docs/screenshots/03-segmentation.png) | ![AI Supervisor](docs/screenshots/04-ai-supervisor.png) |
+
+| AI Agents | Governance |
+| --- | --- |
+| ![AI Agents](docs/screenshots/05-agents.png) | ![Governance](docs/screenshots/06-governance.png) |
+
+| Recommendations | Analytics |
+| --- | --- |
+| ![Recommendations](docs/screenshots/07-recommendations.png) | ![Analytics](docs/screenshots/08-analytics.png) |
+
 ## Structure
 
 - `backend/` — FastAPI (Python), serves mock data under `/api/v1`
